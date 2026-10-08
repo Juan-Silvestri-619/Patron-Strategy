@@ -1,0 +1,6 @@
+C:\Users\Juan\Documents\Programacion\PatronStrategy\DOMAIN\bin\Debug\DOMAIN.dll
+C:\Users\Juan\Documents\Programacion\PatronStrategy\DOMAIN\bin\Debug\DOMAIN.pdb
+C:\Users\Juan\Documents\Programacion\PatronStrategy\DOMAIN\obj\Debug\DOMAIN.csproj.AssemblyReference.cache
+C:\Users\Juan\Documents\Programacion\PatronStrategy\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\Programacion\PatronStrategy\DOMAIN\obj\Debug\DOMAIN.dll
+C:\Users\Juan\Documents\Programacion\PatronStrategy\DOMAIN\obj\Debug\DOMAIN.pdb
